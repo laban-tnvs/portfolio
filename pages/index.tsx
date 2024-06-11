@@ -1,14 +1,14 @@
-import Hero from '@/Components/Hero';
-import MobileNav from '@/Components/MobileNav';
-import Nav from '@/Components/Nav';
-import About from '@/Components/About';
-import Service from '@/Components/Service';
+import Hero from '@/public/Components/Hero';
+import MobileNav from '@/public/Components/MobileNav';
+import Nav from '@/public/Components/Nav';
+import About from '@/public/Components/About';
+import Service from '@/public/Components/Service';
 import React, { useEffect, useState } from 'react'
-import Skills from '@/Components/Skills';
-import Projects from '@/Components/Projects';
-import Referenses from '@/Components/Referenses';
-import Workshops from '@/Components/Workshops';
-import Footer from '@/Components/Footer';
+import Skills from '@/public/Components/Skills';
+import Projects from '@/public/Components/Projects';
+import Referenses from '@/public/Components/Referenses';
+import Workshops from '@/public/Components/Workshops';
+import Footer from '@/public/Components/Footer';
 import AOS from 'aos';
 import 'aos/dist/aos.css'; 
 
